@@ -1,24 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails Rest Tester
 
-Things you may want to cover:
+This project is part of the Microverse Ruby on Rails track.
 
-* Ruby version
+The goal of this project was to build a simple app using Ruby on Rails and 
+create a simple script that uses the Rest Client gem to send requests and examine server outputs.
 
-* System dependencies
+[Assignment link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers)
 
-* Configuration
+License
 
-* Database creation
+All source code in the Ruby on Rails Tutorial is available jointly under the MIT License and the Beerware License. See LICENSE.md for details.
 
-* Database initialization
+Getting started
 
-* How to run the test suite
+To get started with the app, clone the repo and then install the needed gems:
 
-* Services (job queues, cache servers, search engines, etc.)
+$ bundle install --without production
 
-* Deployment instructions
+$ rails server
 
-* ...
+## Authors
+
+[Andres Moya](https://github.com/AndresFMoya)
+[Kerron King](https://github.com/KerronKing)
